@@ -1,5 +1,7 @@
 # Getting started with data science using Python
 
+[Fonte: Getting started with data science using Python](https://opensource.com/article/19/9/get-started-data-science-python)
+
 Doing data science with Python offers limitless potential for you to parse, interpret, and structure data in meaningful and enlightening ways.
 
 Data science is an exciting new field in computing that's built around analyzing, visualizing, correlating, and interpreting the boundless amounts of information our computers are collecting about the world. Of course, calling it a "new" field is a little disingenuous because the discipline is a derivative of statistics, data analysis, and plain old obsessive scientific observation.
